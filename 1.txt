@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-master third
-=======
-exp final
->>>>>>> exp
-=======
-exp final one more
->>>>>>> exp
+the content that i want 
